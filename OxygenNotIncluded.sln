@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxygenNotIncluded", "OxygenNotIncluded\OxygenNotIncluded.csproj", "{F99B3D1E-2261-43B9-860A-534C58F9315E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxygenNotIncludedTest", "OxygenNotIncludedTest\OxygenNotIncludedTest.csproj", "{DABCCCA3-1DFB-4AAB-A4E0-F955E249D933}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F99B3D1E-2261-43B9-860A-534C58F9315E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99B3D1E-2261-43B9-860A-534C58F9315E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99B3D1E-2261-43B9-860A-534C58F9315E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99B3D1E-2261-43B9-860A-534C58F9315E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABCCCA3-1DFB-4AAB-A4E0-F955E249D933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABCCCA3-1DFB-4AAB-A4E0-F955E249D933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABCCCA3-1DFB-4AAB-A4E0-F955E249D933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABCCCA3-1DFB-4AAB-A4E0-F955E249D933}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97F83F23-B730-4CF3-B2AE-D8D3CF0940BF}
+	EndGlobalSection
+EndGlobal
