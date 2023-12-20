@@ -1,10 +1,10 @@
 ﻿namespace OxygenNotIncluded
 {
-    public class Meat
+    public class DropInfo
     {
         public int Kcal { get; }
 
-        public Meat(int kcal)
+        public DropInfo(int kcal)
         {
             Kcal = kcal;
         }

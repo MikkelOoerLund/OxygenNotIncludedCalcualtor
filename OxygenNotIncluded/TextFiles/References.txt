@@ -1,0 +1,21 @@
+﻿
+
+Data on Critter Statuses/Buffs, Happiness, Reproduction and Metabolism:
+https://www.reddit.com/r/Oxygennotincluded/comments/vletxv/data_on_critter_statusesbuffs_happiness/
+
+
+
+Motabolisim data:
+
+All the possible status combinations and their associated metabolism:
+
+- Wild Glum Baby: 1%
+- Tame Glum Baby: 2%
+- Wild Happy Baby: 3%
+- Tame Happy Baby: 10%
+- Wild Glum (Adult): 10%
+- Tame Glum (Adult): 20%
+- Wild Happy (Adult): 25%
+- Tame Happy (Adult): 100%
+
+https://www.reddit.com/r/Oxygennotincluded/comments/vletxv/data_on_critter_statusesbuffs_happiness/
